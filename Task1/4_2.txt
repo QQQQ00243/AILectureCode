@@ -1,0 +1,2 @@
+activation,regularization,test_loss,test_acc,
+Sigmoid,None,0.3564008719558957,0.8766,
